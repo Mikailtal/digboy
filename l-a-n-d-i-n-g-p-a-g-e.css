@@ -82,9 +82,10 @@ text-align: left;
 
 
 .l-a-n-d-i-n-g-p-a-g-e-i-m-a-g-e21 {
-  left:20%;
-  max-width: 80%;
+  /* left:20%;
+  max-width: 80%; */
   height: 100%;
+  right: 0;
   position: absolute;
   border-color: transparent;
   transition: .5s ease;
