@@ -69,7 +69,9 @@ body{
 	max-height: 70%;
 	/* margin-left:-15%; */
   /* bottom:-20%;*/
-	left:-2.5%;
+	left:0;
+	overflow: hidden;
+
 
 
 	/* transform-origin:left;
@@ -109,7 +111,7 @@ body{
 	max-height:80%; */
 	max-width: 70%;
 	max-height: 70%;
-	right:-2.5%;
+	right:0;
 
 
 
@@ -160,7 +162,7 @@ body{
 	/* border: 1px solid green; */
 	height: 60%;
 	width: 60%;
-	left:15%;
+	left:20%;
 	text-align: left;
 
 
@@ -182,7 +184,7 @@ body{
 	/* border: 1px solid green; */
 	height: 50%;
 	width: 50%;
-	left:15%;
+	left:20%;
 	text-align: left;
 
 	/* overflow: hidden; */
@@ -300,6 +302,7 @@ font-weight: 500;
 	overflow: hidden; */
 	max-width:800px;
 	max-height:800px;
+
 	width: auto;
 	height: auto;
 	overflow: hidden;
@@ -307,6 +310,8 @@ font-weight: 500;
 
 
 }
+
+
 .dinoimg{
 	/* transform: rotate(28.69304130116408deg);
 
@@ -318,7 +323,7 @@ font-weight: 500;
 	overflow: hidden;
 	margin-left: 42%; */
 	position: absolute;
-	transform: rotate(28.69304130116408deg);
+	/* transform: rotate(28.69304130116408deg); */
 
   max-width:100%;
   max-height:100%;
