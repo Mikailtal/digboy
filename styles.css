@@ -8,6 +8,7 @@ body{
 	min-height: 100vh;
 	/* border: 1px solid blue; */
 	position: relative;
+	overflow: hidden;
 
 
 }
@@ -291,17 +292,23 @@ font-weight: 500;
 }
 .dinocontainer{
 	/* border: 1px solid pink; */
-	top:0;
+	/* top:0;
 	float: right;
 	position: relative;
 	height: 100%;
 	width: 100%;
+	overflow: hidden; */
+	max-width:800px;
+	max-height:800px;
+	width: auto;
+	height: auto;
 	overflow: hidden;
+
 
 
 }
 .dinoimg{
-	transform: rotate(28.69304130116408deg);
+	/* transform: rotate(28.69304130116408deg);
 
 	position: absolute;
 
@@ -309,7 +316,18 @@ font-weight: 500;
 	height: 90%;
 	width: 60%;
 	overflow: hidden;
-	margin-left: 42%;
+	margin-left: 42%; */
+	position: absolute;
+	transform: rotate(28.69304130116408deg);
+
+  max-width:100%;
+  max-height:100%;
+
+/* left: 1000px; */
+top: 0;
+right: -3%;
+overflow: hidden;
+
 }
 .ellipse{
 
