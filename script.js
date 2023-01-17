@@ -1,3 +1,42 @@
+// 
+//
+// $(document).ready(function() {
+//       // $("<div class='swiper-slide tranding-slide'></div>").appendTo(".swiper-wrapper");
+//       var sli=$('.swiper-wrapper')
+//       var slid=$('.swiper-slide tranding-slide')
+// for(let i=0;i<7;i++){
+//       sli.append(
+//   $('<div/>')
+//
+//     .addClass("swiper-slide tranding-slide")
+//
+//
+// );
+// slid.append(
+// $('<div/>')
+//
+// .addClass("tranding-slide-img")
+//
+// }
+//
+//
+// console.log(sli[0]);
+//   });
+
+
+
+
+
+
+
+//
+// <div class="swiper-slide tranding-slide">
+//   <div class="tranding-slide-img">
+//     <img src="portfolio\5.png" alt="Tranding">
+//   </div>
+//
+// </div>
+
 // var slideIndex = 1;
 //
 //
@@ -27,26 +66,28 @@
 // }
 
 //
-$(document).ready(function(){
-$(".b").click(function(){
-    $(this).toggleClass("b");
-    $(this).toggleClass("b-selected");
- });
-});
+// $(document).ready(function(){
+// $(".b").click(function(){
+//     $(this).toggleClass("b");
+//     $(this).toggleClass("b-selected");
+//  });
+// });
+//
+// var elem = document.querySelector('.carousel');
+// var flkty = new Flickity( elem, {
+//   // options
+//   cellalign: 'right',
+//   pageDots: false,
+//   groupCells: '20%',
+//   selectedAttraction: 0.03,
+//   friction: 0.15
+// });
+//
+// var flkty = new Flickity( '.carousel', {
+//   // options
+// });
 
-var elem = document.querySelector('.carousel');
-var flkty = new Flickity( elem, {
-  // options
-  cellalign: 'right',
-  pageDots: false,
-  groupCells: '20%',
-  selectedAttraction: 0.03,
-  friction: 0.15
-});
 
-var flkty = new Flickity( '.carousel', {
-  // options
-});
 
 
 
