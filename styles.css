@@ -180,6 +180,27 @@ body{
 	/* border: 1px solid green; */
 
 }
+.clients2{
+	text-align: center;
+
+
+/* font-family: 'Montserrat', sans-serif; */
+font-style: normal;
+font-weight: 700;
+font-size: 5vw;
+
+width: 100%;
+line-height: 122.4%;
+display: block;
+/* or 367px */
+
+letter-spacing: 0.05em;
+
+color: white;
+						/* font-size: 50px; */
+						-webkit-text-stroke-width: 2px;
+						-webkit-text-stroke-color: black;
+}
 .clients{
 	/* border: 1px solid green; */
 	text-align: center;
@@ -203,6 +224,30 @@ color: black;
 						-webkit-text-stroke-color: white;
 
 }
+.brand2{
+	text-align: left;
+	/* max-width: 20%;
+height: 303px; */
+/* left: 89px;
+top: 0px; */
+
+/* font-family: 'Montserrat', sans-serif; */
+font-style: normal;
+font-weight: 700;
+font-size: 20vw;
+
+width: fit-content;
+line-height: 122.4%;
+display: block;
+/* or 367px */
+
+letter-spacing: 0.05em;
+
+color: white;
+            /* font-size: 50px; */
+            -webkit-text-stroke-width: 5px;
+            -webkit-text-stroke-color: black;
+}
 .brand1{
 	/* position:absolute; */
 	/* border: 1px solid green; */
@@ -217,7 +262,7 @@ font-style: normal;
 font-weight: 700;
 font-size: 20vw;
 
-width: fit-content;
+
 line-height: 122.4%;
 display: block;
 /* or 367px */
@@ -289,7 +334,7 @@ font-style: normal;
 		/* height: 100%;
 		width: 100%;
 		position: relative; */
-		/* overflow: hidden; */
+		overflow: hidden;
 
 }
 .container3{
