@@ -160,12 +160,13 @@ body{
 }
 .textcontainer{
 	/* position:absolute; */
+	overflow: hidden;
 
 	padding-left: 20%;
 	/* border: 1px solid green; */
 	/* height: 60%;
 	width: 60%; */
-	width: 100%;
+	/* width: 100%; */
 	/* display: inline-block; */
 
 
