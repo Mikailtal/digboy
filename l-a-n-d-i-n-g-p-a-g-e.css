@@ -21,6 +21,7 @@ body{
   position: relative;
   overflow: hidden;
   /* filter: blur(6px); */
+  background-color: black;
 
 
 
@@ -29,11 +30,13 @@ body{
 }
 .blackbg{
   background-image: url("public/playground_assets/darkimg.png");
-background-size: cover;
+background-size:cover;
 background-position: center;
+background-repeat: no-repeat;
 position: absolute;
 height: 100%;
 width: 100%;
+
 /* filter: blur(0);
 filter: brightness(.5); */
 -webkit-filter: brightness(100%) blur(0);

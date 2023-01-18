@@ -1,7 +1,7 @@
-// 
-//
-// $(document).ready(function() {
-//       // $("<div class='swiper-slide tranding-slide'></div>").appendTo(".swiper-wrapper");
+
+
+$(document).ready(function() {
+      // $("<div class='swiper-slide tranding-slide'></div>").appendTo(".swiper-wrapper");
 //       var sli=$('.swiper-wrapper')
 //       var slid=$('.swiper-slide tranding-slide')
 // for(let i=0;i<7;i++){
@@ -21,7 +21,62 @@
 //
 //
 // console.log(sli[0]);
-//   });
+$(".swiper-button-prev ").click(function(){
+  if($('.swiper-slide-active').find('.logodesigns').length !== 0){
+
+
+  $(".social").text("Logo");
+
+    $(".poster").text("designs");
+    $(".socialwyt").text("Logo");
+
+      $(".posterwyt").text("designs");
+
+  }
+  else {
+    $(".social").text("Socialmedia");
+    $(".poster").text(" posters");
+    $(".socialwyt").text("Socialmedia");
+    $(".posterwyt").text(" posters");
+  }
+})
+$(".swiper-button-next ").click(function(){
+  if($('.swiper-slide-active').find('.logodesigns').length !== 0){
+  $(".social").text("Logo")
+  $(".poster").text("designs")
+  $(".socialwyt").text("Logo")
+  $(".posterwyt").text("designs")
+  }
+  else {
+    $(".social").text("Socialmedia")
+    $(".poster").text(" posters")
+    $(".socialwyt").text("Socialmedia")
+    $(".posterwyt").text(" posters")
+  }
+})
+// $("#tranding").on("swipe"(function(){
+//   if($('.swiper-slide-active').find('.logodesigns').length !== 0){
+//   $(".social").text("Logo")
+//   $(".poster").text("designs")
+//
+//   }
+//   else {
+//     $(".social").text("Socialmedia")
+//     $(".poster").text(" posters")
+//   }
+// }))
+//
+//
+// $('.brand1').on("swipeleft",function(){
+//   console.log("touch")
+// });
+//
+
+
+
+
+
+  });
 
 
 

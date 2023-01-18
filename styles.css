@@ -182,28 +182,104 @@ body{
 
 
 }
-.clients2{
-	text-align: center;
-			padding-bottom: 5%;
 
+.posterwyt{
+	/* border: 1px solid green; */
+	text-align: center;
 
 
 /* font-family: 'Montserrat', sans-serif; */
 font-style: normal;
 font-weight: 700;
-font-size: 5vw;
+font-size: 3rem;
 
-width: 100%;
+
 line-height: 122.4%;
-display: block;
+/* display: block; */
 /* or 367px */
 
 letter-spacing: 0.05em;
 
 color: white;
 						/* font-size: 50px; */
-						-webkit-text-stroke-width: 2px;
+						-webkit-text-stroke-width: 1px;
 						-webkit-text-stroke-color: black;
+
+
+
+}
+.poster,.posterdesigns{
+	/* border: 1px solid green; */
+	text-align: center;
+
+
+/* font-family: 'Montserrat', sans-serif; */
+font-style: normal;
+font-weight: 700;
+font-size: 3rem;
+
+
+line-height: 122.4%;
+/* display: block; */
+/* or 367px */
+
+letter-spacing: 0.05em;
+
+color: black;
+						/* font-size: 50px; */
+						-webkit-text-stroke-width: 1px;
+						-webkit-text-stroke-color: white;
+
+
+}
+.socialwyt{
+	/* border: 1px solid green; */
+	text-align: center;
+
+
+/* font-family: 'Montserrat', sans-serif; */
+font-style: normal;
+font-weight: 700;
+font-size: 3rem;
+
+
+line-height: 122.4%;
+display: inline-block;
+/* or 367px */
+
+letter-spacing: 0.05em;
+
+color: black;
+						/* font-size: 50px; */
+						-webkit-text-stroke-width: 1px;
+						-webkit-text-stroke-color: white;
+
+
+}
+
+.social,.sociallogo{
+	/* border: 1px solid green; */
+	text-align: center;
+
+
+/* font-family: 'Montserrat', sans-serif; */
+font-style: normal;
+font-weight: 700;
+font-size: 3rem;
+
+
+line-height: 122.4%;
+display: inline-block;
+/* or 367px */
+
+letter-spacing: 0.05em;
+
+color: white;
+						/* font-size: 50px; */
+						-webkit-text-stroke-width: 1px;
+						-webkit-text-stroke-color: black;
+
+
 }
 .portfoliowhite{
 	/* border: 1px solid green; */
@@ -227,6 +303,7 @@ color: white;
 						-webkit-text-stroke-width: 2px;
 						-webkit-text-stroke-color: black;
 }
+
 .portfolioblack{
 	/* border: 1px solid green; */
 	text-align: center;
@@ -249,6 +326,29 @@ color: black;
 						-webkit-text-stroke-width: 1px;
 						-webkit-text-stroke-color: white;
 
+}
+.clients2{
+	text-align: center;
+			padding-bottom: 5%;
+
+
+
+/* font-family: 'Montserrat', sans-serif; */
+font-style: normal;
+font-weight: 700;
+font-size: 5vw;
+
+width: 100%;
+line-height: 122.4%;
+display: block;
+/* or 367px */
+
+letter-spacing: 0.05em;
+
+color: white;
+						/* font-size: 50px; */
+						-webkit-text-stroke-width: 2px;
+						-webkit-text-stroke-color: black;
 }
 .clients{
 	/* border: 1px solid green; */
@@ -1090,12 +1190,13 @@ body {
 
 #tranding {
   padding: 4rem 0;
+
 	/* border: 2px solid red; */
 }
 
 @media (max-width:1440px) {
   #tranding {
-    padding: 7rem 0;
+    /* padding: 7rem 0; */
   }
 }
 
@@ -1115,6 +1216,7 @@ body {
   width: 37rem;
   height: 42rem;
   position: relative;
+	filter: blur(3px);
 }
 
 @media (max-width:500px) {
@@ -1132,6 +1234,7 @@ body {
   width: 37rem;
   height: 42rem;
   border-radius: 2rem;
+
   /* object-fit: cover; */
 }
 
@@ -1245,4 +1348,10 @@ body {
 
 .tranding-slider-control .swiper-pagination .swiper-pagination-bullet-active {
   background: var(--primary);
+}
+/* .swiper.activeIndex{
+	filter: blur(5px);
+} */
+.swiper-slide-active{
+	filter: blur(0);
 }
