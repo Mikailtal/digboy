@@ -441,7 +441,8 @@ color: black;
 	top:30%;
 
 }
-.text1 {
+
+.text1 {
 	color:rgba(255, 255, 255, 1);
 	width:100%;
 	font-style: normal;
@@ -502,7 +503,8 @@ font-style: normal;
 	padding-top: 10%;
 	overflow: hidden;
 }
-.e248_2317 {
+
+.e248_2317 {
 	color:rgba(216.75000607967377, 0, 0, 1);
 	width:201px;
 	height:63px;
@@ -527,7 +529,8 @@ font-weight: 500;
 	letter-spacing:0;
 
 }
-.e248_2319 {
+
+.e248_2319 {
 	color:rgba(255, 255, 255, 1);
 	width:876px;
 	height:239px;
@@ -612,13 +615,15 @@ overflow: hidden;
 	background-image:url(images/deinonychus_h05_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2322 {
+}
+.e248_2322 {
 	width:1707px;
 	height:1000px;
 	position:absolute;
 	left:213px;
 	top:1368px;
-}.e248_2323 {
+}
+.e248_2323 {
 	color:rgba(255, 255, 255, 1);
 	/* width:100%;
 	height:100%; */
@@ -632,7 +637,8 @@ overflow: hidden;
 	width: 70%;
 
 	letter-spacing:0;
-}.overflow {
+}
+.overflow {
 	color:rgba(255, 255, 255, 1);
 
 font-size: 50px;
@@ -645,7 +651,8 @@ font-size: 50px;
 	text-align:left;
 
 	letter-spacing:0;
-}.e248_2325 {
+}
+.e248_2325 {
 	color:rgba(255, 255, 255, 0);
 	width:1024px;
 	height:303px;
@@ -656,7 +663,8 @@ font-size: 50px;
 	text-align:left;
 	font-size:300px;
 	letter-spacing:5;
-}.
+}
+.
 .e248_2326 {
 	color:rgba(0, 0, 0, 0);
 	width:287px;
@@ -668,7 +676,8 @@ font-size: 50px;
 	text-align:left;
 	font-size:75px;
 	letter-spacing:0;
-}.e248_2327 {
+}
+.e248_2327 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -677,7 +686,8 @@ font-size: 50px;
 	background-image:url(images/parpella_wt_2.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2328 {
+}
+.e248_2328 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -686,7 +696,8 @@ font-size: 50px;
 	background-image:url(images/dfr_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2329 {
+}
+.e248_2329 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -695,7 +706,8 @@ font-size: 50px;
 	background-image:url(images/neo_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2330 {
+}
+.e248_2330 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -704,7 +716,8 @@ font-size: 50px;
 	background-image:url(images/frzn_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2331 {
+}
+.e248_2331 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -713,7 +726,8 @@ font-size: 50px;
 	background-image:url(images/feugo_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2332 {
+}
+.e248_2332 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -722,7 +736,8 @@ font-size: 50px;
 	background-image:url(images/dwsh_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2333 {
+}
+.e248_2333 {
 	width:552px;
 	height:276px;
 	position:absolute;
@@ -731,7 +746,8 @@ font-size: 50px;
 	background-image:url(images/parpella_wt_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2334 {
+}
+.e248_2334 {
 	width:400px;
 	height:200px;
 	position:absolute;
@@ -740,7 +756,8 @@ font-size: 50px;
 	background-image:url(images/bull_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2335 {
+}
+.e248_2335 {
 	width:478px;
 	height:239px;
 	position:absolute;
@@ -749,13 +766,15 @@ font-size: 50px;
 	background-image:url(images/sym_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e248_2336 {
+}
+.e248_2336 {
 	width:1920px;
 	height:1018px;
 	position:absolute;
 	left:1px;
 	top:3549px;
-}.e248_2337 {
+}
+.e248_2337 {
 	transform: rotate(16.018173632691596deg);
 	border-radius:500px;
 	background-color:rgba(0, 255, 255, 1);
@@ -764,7 +783,8 @@ font-size: 50px;
 	position:absolute;
 	left:81.384033203125px;
 	top:462px;
-}.e248_2339 {
+}
+.e248_2339 {
 	border-radius:500px;
 	background-color:rgba(36.12499974668026, 31.308332607150078, 31.308332607150078, 1);
 	width:460px;
@@ -772,13 +792,15 @@ font-size: 50px;
 	position:absolute;
 	left:730px;
 	top:898px;
-}.e248_2340 {
+}
+.e248_2340 {
 	width:97px;
 	height:97px;
 	position:absolute;
 	left:1314px;
 	top:461px;
-}.ei248_2340_142_113 {
+}
+.ei248_2340_142_113 {
 	border-radius:500px;
 	background-color:rgba(255, 255, 255, 0.5);
 	width:97px;
@@ -786,7 +808,8 @@ font-size: 50px;
 	position:absolute;
 	left:0px;
 	top:0px;
-}.ei248_2340_142_112 {
+}
+.ei248_2340_142_112 {
 	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
 	border-radius:500px;
 	background-color:rgba(255, 255, 255, 1);
@@ -795,7 +818,8 @@ font-size: 50px;
 	position:absolute;
 	left:6px;
 	top:0px;
-}.ei248_2340_142_114 {
+}
+.ei248_2340_142_114 {
 	border-radius:500px;
 	background-color:rgba(195.49999594688416, 195.49999594688416, 195.49999594688416, 1);
 	width:59px;
@@ -803,7 +827,8 @@ font-size: 50px;
 	position:absolute;
 	left:19px;
 	top:13px;
-}.ei248_2340_142_115 {
+}
+.ei248_2340_142_115 {
 	transform: rotate(-90.00000250447808deg);
 	color:rgba(0, 0, 0, 1);
 	width:26.999998092651367px;
@@ -815,13 +840,15 @@ font-size: 50px;
 	text-align:left;
 	font-size:48px;
 	letter-spacing:0;
-}.e248_2341 {
+}
+.e248_2341 {
 	width:335px;
 	height:41px;
 	position:absolute;
 	left:793px;
 	top:138px;
-}.ei248_2341_148_310 {
+}
+.ei248_2341_148_310 {
 	color:rgba(0, 0, 0, 1);
 	width:202px;
 	height:39px;
@@ -832,7 +859,8 @@ font-size: 50px;
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}.ei248_2341_148_311 {
+}
+.ei248_2341_148_311 {
 	width:123px;
 	height:39px;
 	position:absolute;
@@ -842,7 +870,8 @@ font-size: 50px;
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}.e248_2342 {
+}
+.e248_2342 {
 	color:rgba(0, 0, 0, 0);
 	width:398px;
 	height:88px;
@@ -853,7 +882,8 @@ font-size: 50px;
 	text-align:left;
 	font-size:75px;
 	letter-spacing:0;
-}.e248_3504 {
+}
+.e248_3504 {
 	width:454px;
 	height:580.111083984375px;
 	position:absolute;
@@ -866,13 +896,15 @@ font-size: 50px;
 	background-image:url(images/24_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e254_3664 {
+}
+.e254_3664 {
 	width:335px;
 	height:47px;
 	position:absolute;
 	left:793px;
 	top:147px;
-}.ei254_3664_194_325 {
+}
+.ei254_3664_194_325 {
 	color:rgba(255, 255, 255, 1);
 	width:202px;
 	height:45px;
@@ -883,7 +915,8 @@ font-size: 50px;
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}.ei254_3664_194_326 {
+}
+.ei254_3664_194_326 {
 	width:123px;
 	height:45px;
 	position:absolute;
@@ -1133,7 +1166,7 @@ html {
 
 @media (min-width: 1440px) {
   html {
-    zoom: 1.5;
+    /* zoom: 1.5; */
   }
 }
 
