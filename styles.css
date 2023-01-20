@@ -384,7 +384,7 @@ top: 0px; */
 /* font-family: 'Montserrat', sans-serif; */
 font-style: normal;
 font-weight: 700;
-font-size: 11vw;
+font-size: 13vw;
 
 width: fit-content;
 line-height: 122.4%;
@@ -410,8 +410,8 @@ top: 0px; */
 /* font-family: 'Montserrat', sans-serif; */
 font-style: normal;
 font-weight: 700;
-font-size: 11vw;
-font-size: 100%;
+font-size: 13vw;
+
 
 
 line-height: 122.4%;
@@ -1254,6 +1254,14 @@ body {
 }
 
 @media (max-width:500px) {
+	.brand1{
+		font-size: 16vw;
+		  -webkit-text-stroke-width: 3px;
+	}
+	.brand2{
+		font-size: 16vw;
+		  -webkit-text-stroke-width: 3px;
+	}
   .tranding-slide {
     width: 28rem !important;
     height: 36rem !important;
