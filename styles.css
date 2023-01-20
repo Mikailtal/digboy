@@ -632,7 +632,7 @@ overflow: hidden;
 	height:100%; */
 	/* position:absolute; */
 	display: inline-block;
-	font-size: 26px;
+	font-size: 2vw;
 
 
 	font-family: 'Montserrat', sans-serif;
@@ -1256,6 +1256,10 @@ body {
 }
 
 @media (max-width:500px) {
+	.e248_2323 {
+font-size: 4vw;
+	}
+
 	.brand1{
 		font-size: 16vw;
 		  -webkit-text-stroke-width: 3px;
@@ -1271,6 +1275,8 @@ body {
 	.logo2{
 		max-width: 40%;
 		max-height: 40%;
+		margin-top: 40%;
+		/* padding-top: 50% */
 	}
 	.clients{
 		font-size: 9vw;
