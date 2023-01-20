@@ -1264,6 +1264,14 @@ body {
 		font-size: 16vw;
 		  -webkit-text-stroke-width: 3px;
 	}
+	.logo{
+		max-width: 40%;
+		max-height: 40%;
+	}
+	.logo2{
+		max-width: 40%;
+		max-height: 40%;
+	}
   .tranding-slide {
     width: 28rem !important;
     height: 36rem !important;
