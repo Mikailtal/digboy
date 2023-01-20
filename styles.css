@@ -1272,6 +1272,23 @@ body {
 		max-width: 40%;
 		max-height: 40%;
 	}
+	.clients{
+		font-size: 9vw;
+		margin-top:10%;
+	}
+	.clients2{
+		font-size: 9vw;
+			margin-top:10%;
+
+	}
+	.portfolioblack{
+		font-size: 9vw;
+
+	}
+	.portfoliowhite{
+		font-size: 9vw;
+
+	}
   .tranding-slide {
     width: 28rem !important;
     height: 36rem !important;
