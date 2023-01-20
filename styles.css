@@ -1257,16 +1257,16 @@ body {
 
 @media (max-width:500px) {
 	.e248_2323 {
-font-size: 4vw;
+font-size: 5vw;
 	}
 
 	.brand1{
 		font-size: 16vw;
-		  -webkit-text-stroke-width: 3px;
+		  -webkit-text-stroke-width: 2px;
 	}
 	.brand2{
 		font-size: 16vw;
-		  -webkit-text-stroke-width: 3px;
+		  -webkit-text-stroke-width: 2px;
 	}
 	.logo{
 		max-width: 40%;
@@ -1275,7 +1275,7 @@ font-size: 4vw;
 	.logo2{
 		max-width: 40%;
 		max-height: 40%;
-		margin-top: 40%;
+
 		/* padding-top: 50% */
 	}
 	.clients{
