@@ -1248,6 +1248,9 @@ body {
 }
 
 @media (max-width:500px) {
+	.e248_2318{
+		display: none;
+	}
   #tranding .tranding-slider {
     height: 45rem;
   }
